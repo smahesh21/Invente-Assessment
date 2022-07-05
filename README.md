@@ -7,7 +7,7 @@ Add UI reference image yourself
 <div style="text-align: center;">
      <!-- <img src="remove this text and add the image URL" alt="ui"> -->
 </div>
-<br/>
+
 ### 1.	How did you structure the app based on the requirements?
 	<br />
         By using the class component and functional component. I have maintained the videosList and selectedVideo in the state.
