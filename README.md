@@ -10,20 +10,19 @@ Add UI reference image yourself
 <br/>
 1.	How did you structure the app based on the requirements?
 	<br />
-By using the class component and functional component. I have maintained the videosList and selectedVideo in the state.
+        By using the class component and functional component. I have maintained the videosList and selectedVideo in the state.
 
 2.	Did you use any library’s and why did you choose to use them?
 	<br />
-Yes, I have used the third-party library called the react-player. Because It has many features like playing, controls, height, width etc. 
+        Yes, I have used the third-party library called the react-player. Because It has many features like playing, controls, height, width etc. 
 
-       3.   Are there any limitations to your solution, what might cause it to fail in a real-world
-             application?
-             <br />
-             		I think there are no limitations but I am not sure.
+3.      Are there any limitations to your solution, what might cause it to fail in a real-world application?
+        <br />
+        I think there are no limitations but I am not sure.
 
 4.	How would you improve it if you had more time?
-5.	<br />
-I will add some features like save video, like, dislike, add to whishlist etc.
+	<br />
+        I will add some features like save video, like, dislike, add to whishlist etc.
 
 
 ### Design Files
