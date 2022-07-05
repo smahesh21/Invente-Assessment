@@ -8,9 +8,21 @@ Add UI reference image yourself
      <!-- <img src="remove this text and add the image URL" alt="ui"> -->
 </div>
 <br/>
-### 1.How did you structure the app based on the requirements?
-<br />
-<summary>By using the class component and functional component. I have maintained the videosList and selectedVideo in the state.</summary>
+1.	How did you structure the app based on the requirements?
+By using the class component and functional component. I have maintained the videosList and selectedVideo in the state.
+
+2.	Did you use any library’s and why did you choose to use them?
+Yes, I have used the third-party library called the react-player. Because It has many features like playing, controls, height, width etc. 
+
+3.	How long did it take you to complete the project?
+It takes 2 hours to complete
+       4.   Are there any limitations to your solution, what might cause it to fail in a real-world
+             application?
+             		I think there are no limitations but I am not sure.
+
+4.	How would you improve it if you had more time?
+I will add some features like save video, like, dislike, add to whishlist etc.
+
 
 ### Design Files
 
