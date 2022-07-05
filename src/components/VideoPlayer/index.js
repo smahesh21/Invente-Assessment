@@ -119,7 +119,7 @@ class VideoPlayer extends Component {
     const {URL, title, tags} = selectedVideo
     return (
       <div className="main-video-container">
-        <ReactPlayer url={URL} controls height="500px" width="900px" />
+        <ReactPlayer url={URL} controls playing="true" height="500px" width="900px" />
         <h1 className="video-title">{title}</h1>
         <h2 className="video-title">Tags</h2>
         <ul>
